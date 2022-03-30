@@ -75,7 +75,7 @@ Reiniciar servicio
 
 -------------------
 
-## Uso de API
+## Uso de API y front 
 
 Se incresa a la carpeta src, desde ahi se abre una terminal.
 
